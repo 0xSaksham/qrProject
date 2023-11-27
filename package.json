@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qrproject",
+  "version": "1.0.0",
+  "description": "A Projec that creates QR Images from text",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qr"
+  ],
+  "author": "Saksham Gupta",
+  "license": "ISC"
+}
